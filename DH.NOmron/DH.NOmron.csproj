@@ -39,8 +39,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DH.NIoT" Version="3.7.2024.903-beta0234" />
-    <PackageReference Include="HslCommunication" Version="12.0.3" />
+    <PackageReference Include="DH.NIoT" Version="3.7.2024.907-beta0158" />
+    <PackageReference Include="HslCommunication" Version="12.1.0" />
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
